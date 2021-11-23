@@ -6,7 +6,7 @@
             <!--Grid column-->
             <div class="col-lg-3 col-md-6 mb-4 mb-md-0">
                 <div class="footer-logo" style="max-width: 50%; margin-bottom: 20px;">
-                    <img src="assets/imagenes/logo-white.png" class="d-block mx-auto img-fluid" alt="" />
+                    <!--<img src="assets/imagenes/logo-white.png" class="d-block mx-auto img-fluid" alt="" />-->
                 </div>
 
                 <div style="line-height: 2;">
@@ -110,7 +110,7 @@
     <!-- Copyright -->
     <div class="text-center p-3 d-flex justify-content-between" style="background-color: rgba(0, 0, 0, 0.2)">
         <div>
-            © 2021 Copyright: Icazamex
+            © 2021 Copyright: Inmobiliaria Mex
         </div>
         <div>
             <small><a href="{{route('web.aviso')}}" class="text-white">Aviso de Privacidad</a></small>
